@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@passign</string>
+	<string>cspassign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassInterfaceMethods</string>
+		<string>ClassInterfaceVariables</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;;
+	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5E38F466-2E90-4A3A-B34F-741D89773FF4</string>
