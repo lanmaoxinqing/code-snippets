@@ -6,9 +6,7 @@
 	<string>cspassign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassInterfaceMethods</string>
-		<string>ClassInterfaceVariables</string>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;;
